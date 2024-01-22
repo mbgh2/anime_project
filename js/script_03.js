@@ -31,6 +31,7 @@ const elemTwo = document.querySelector('.two');
 
 
 // change in second branch
+// чтоб сделать изменения во второй ветке надо в ней и находиться
 
 
 
