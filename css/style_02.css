@@ -1,0 +1,50 @@
+.nav ul li:nth-child(3) {
+   border: 1px solid ;
+   background-color: #35d035; 
+
+}
+
+.btn1 {
+   display: block;
+   font-size: 40px;
+   margin-top: 100px;
+}
+
+.rect {
+   user-select: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 500px;
+   height: 200px;
+   color: #fff;
+   background-color: #fa48aa;
+   font-size: 40px;
+   text-shadow: 2px 2px 4px #000,
+                -2px -2px 4px #600,
+                0 5px 10px rgba(0, 0, 0, .5),
+                0 20px 20px rgba(0, 0, 0, .5),
+                0 5px 4px rgba(0, 0, 0, .2),
+                0 5px 0 #bbbaba;
+}
+
+/* =============================== */
+/* лущенко - урок 14 всплывающие сообщения */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

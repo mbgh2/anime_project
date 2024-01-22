@@ -1,0 +1,79 @@
+.nav ul li:nth-child(6) {
+   border: 1px solid ;
+   background-color: #35d035; 
+}
+
+.container-05 {
+   /* height: 100vh; */
+   background-color: #aaa;
+   padding-top: 70px;
+}
+
+.container-05 h3 {
+   width: 500px;
+   margin: 0 auto;
+   /* padding-top: 20px;
+   padding-bottom: 20px; */
+   line-height: 60px;
+   text-align: center;
+}
+
+.container-05 .inner {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   width: 90%;
+   height: 200px;
+   margin: 20px auto;
+   background-color: #bbb;
+}
+
+.container-05 .inner-block {
+   height: 80%;
+   width: 200px;
+   background-color: #ccc;
+}
+
+.container-05 .inner:nth-child(8) {
+   background-color: #ccc;
+   height: 400px;
+}
+
+.square {
+   display: inline-block;
+   width: 30px;
+   height: 30px;
+   background-color: #f00;
+}
+/* ================================== */
+.animation {
+   width: 300px;
+   height: 40px;
+   border: 2px solid black;
+}
+
+.animation-block {
+   position: relative;
+   width: 40px;
+   height: 40px;
+   background-color: #dd8822;
+}
+/* ================================== */
+
+#mySelect {
+   width: 200px;
+   height: 40px;
+   text-decoration: none;
+}
+
+/* ================================== */
+
+.click-block {
+   width: 100px;
+   height: 100px;
+   /* user-select: none; */
+   background-color: blueviolet;
+   font-weight: bold;
+   line-height: 100px;
+   text-align: center;
+}

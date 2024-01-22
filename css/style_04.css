@@ -1,0 +1,19 @@
+.nav ul li:nth-child(5) {
+   border: 1px solid ;
+   background-color: #35d035; 
+}
+
+
+.slider {
+   width: 1000px;
+   margin: 0 auto;
+   margin-top: 120px;
+   border: 2px solid #000;
+   display: flex;
+}
+
+.item {
+   width: 250px;
+   height: 200px;
+   background-color: blueviolet;
+}

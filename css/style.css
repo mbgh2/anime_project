@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+   font-family: 'Inter', sans-serif;
+    /* запретим скрол на экране */
+    /* overflow: hidden; */
+}
+
+.nav {
+    position: fixed; 
+    width: 100%;
+    top: 0;
+    left: 0; 
+    /* height: 60px;  */
+    /* margin: 0 auto; */
+    /* left: 50%;
+    transform: translateX(-50%); */
+    background-color: green; 
+    /* z-index: 2;  */
+    text-align: center; 
+    font-weight: bold; 
+    opacity: 0.7; 
+}
+.nav .title {
+    width: 100%;
+    margin: 0 auto;
+}
+.nav ul {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    /* justify-content: space-between; */
+    /* padding: 20px; */
+}
+.nav ul li {
+    list-style: none;
+    /* width: 25%; */
+    flex-grow: 1;
+    border-left: 1px solid ;
+}
+
+/* .nav ul li:nth-child(1) {
+    border: 1px solid ;
+ } */
+
+.nav ul li a {
+    display: block;
+    line-height: 40px; 
+    text-decoration: none;
+}
+/* ============================================== */
+
+
+
+
+
+
